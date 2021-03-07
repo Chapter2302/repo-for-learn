@@ -1,0 +1,5 @@
+<<<<<<< Updated upstream
+=======
+Commit Feature 1 - File 1
+abc
+>>>>>>> Stashed changes
